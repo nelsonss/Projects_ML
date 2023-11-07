@@ -27,6 +27,7 @@ The project successfully developed a predictive model that can identify students
 
 ## Future Work
 Future work on this project could include refining the predictive model, incorporating more data, and developing a user-friendly interface for the model. Additionally, the model could be extended to predict other student outcomes.
+[Predicting Student Dropout Using Machine Learning](https://www.javatpoint.com/predicting-student-dropout-using-machine-learning)
 
 ## Contributions
 This project is open for contributions. If you have any suggestions or improvements, feel free to make a pull request.
