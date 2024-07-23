@@ -1,4 +1,5 @@
 # Student Dropout Analysis and Prediction
+<img src="https://img.freepik.com/free-photo/students-sitting-bench-with-books_23-2147850677.jpg" alt="Student Dropout Analysis" />
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
