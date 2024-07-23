@@ -9,7 +9,7 @@ def main():
         print("2. Perform supervised learning")
         print("3. Perform unsupervised learning")
         print("4. Exit")
-        choice = input("Enter your choice: ")
+        choice = input("Enter your choice ? : ")
 
         if choice == '1':
             descriptive_analysis.main()
